@@ -1,53 +1,58 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-
 凤凰卫视资讯台 | Youtube | https://yt3.ggpht.com/x3_2K7uOfrAKgoPE1o0vsUWTYoWDk3NjiIRFdm8iPQ16prR3kvGXbaBAWph52rH-TZQkJ5g4P9Y=s100 | 凤凰卫视资讯台
 https://www.youtube.com/watch?v=Zm4i_rvAcxc
 
-三立新聞+ | Youtube | https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6=s100 | 三立新聞+
+台视新闻台 | Youtube | https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w=s100 | 台视新闻台
+https://www.youtube.com/watch?v=xL0ch83RAK8
+
+三立新闻台 | Youtube | https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6=s100 | 三立新闻台
 https://www.youtube.com/watch?v=oZdzzvxTfUY
 
-LIVE三立 | Youtube | https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6=s100 | LIVE 三立
+三立海外直播 | Youtube | https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6=s100 | 三立海外直播
 https://www.youtube.com/watch?v=FoBfXvlOR6I
 
 三立iNEWS | Youtube | https://yt3.ggpht.com/ZdGT0pzlpBUdyvQN-2MtuDPe0_Bclv1JSv3LbIub8TAofAE_xL7SxyBbSCZYnJjpB9hV2ncl=s100 | 三立iNEWS
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
-中天新聞台 | Youtube | https://yt3.ggpht.com/7TX5a0vWm4atw3f_uPwN651m0VOmnBSfP0sLEZb4sEha-laWJC2XpeAIVbUqPTum0NRAwuAn=s100 | 中天新聞台
+中天新闻台 | Youtube | https://yt3.ggpht.com/7TX5a0vWm4atw3f_uPwN651m0VOmnBSfP0sLEZb4sEha-laWJC2XpeAIVbUqPTum0NRAwuAn=s100 | 中天新闻台
 https://www.youtube.com/watch?v=oIgbl7t0S_w
+
+中天新闻2台 | Youtube | https://yt3.ggpht.com/7TX5a0vWm4atw3f_uPwN651m0VOmnBSfP0sLEZb4sEha-laWJC2XpeAIVbUqPTum0NRAwuAn=s100 | 中天新闻2台
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+
+民视新闻台 | Youtube | https://yt3.ggpht.com/aPMRiUY_jRjB3arBBm6UAwbMChDTYvxYDdWKQIufybG158JfO1mhv3QLVvWGAOfk54OWY-SkTg=s100 | 民视新闻台
+https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 TVBS NEWS | Youtube | https://yt3.ggpht.com/jWe-dwGiiNd26ijxazm7ZTmbbObYF0e-HJntH2d_YtMM4M-vLKfoSb9Wj1NA6NOUk6KfsG2IsA=s100 | TVBS NEWS
 https://www.youtube.com/watch?v=m_dhMSvUCIc
 
-TVBS新聞台 | Youtube | https://yt3.ggpht.com/jWe-dwGiiNd26ijxazm7ZTmbbObYF0e-HJntH2d_YtMM4M-vLKfoSb9Wj1NA6NOUk6KfsG2IsA=s100 | TVBS新聞台
+TVBS新闻台 | Youtube | https://yt3.ggpht.com/jWe-dwGiiNd26ijxazm7ZTmbbObYF0e-HJntH2d_YtMM4M-vLKfoSb9Wj1NA6NOUk6KfsG2IsA=s100 | TVBS新闻台
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-台視新聞台 | Youtube | https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w=s100 | 台視新聞台
-https://www.youtube.com/watch?v=xL0ch83RAK8
-
-民視新聞台 | Youtube | https://yt3.ggpht.com/aPMRiUY_jRjB3arBBm6UAwbMChDTYvxYDdWKQIufybG158JfO1mhv3QLVvWGAOfk54OWY-SkTg=s100 | 民視新聞台
-https://www.youtube.com/watch?v=ylYJSBUgaMA
-
-中視新聞台 | Youtube | https://yt3.ggpht.com/yibEHBX4Sfi2BPrad679w0sKiDCSQjx67PaGMU3AhPoZAMILyAVlxcHseLqvSP2hBlVxsYG-=s100 | 中視新聞台
-https://www.youtube.com/watch?v=TCnaIE_SAtM
-
-华视新闻台 | Youtube | https://yt3.ggpht.com/mYY5rTK5c8I9ZQ7g8Rq_Fi7naM4_ZNcODZISbqyw2cv-0R_4FKF2_1t2Vp6JeW8pVw5eFvak=s100 | 华视新闻台
-https://www.youtube.com/watch?v=wM0g8EoUZ_E
-
-東森新聞台 | Youtube | https://yt3.ggpht.com/o3xThAlQzF4mXtPWuxwnKZz08Gcv40ZmS_kcanctpOlMaNc9tnqAKT_tsxHoJTuNbuPe5Fvm=s100 | 東森新聞台
+东森新闻台 | Youtube | https://yt3.ggpht.com/o3xThAlQzF4mXtPWuxwnKZz08Gcv40ZmS_kcanctpOlMaNc9tnqAKT_tsxHoJTuNbuPe5Fvm=s100 | 东森新闻台
 https://www.youtube.com/watch?v=2dfAzcDf8Zg
 
-東森財經新聞台 | Youtube | https://yt3.ggpht.com/ytc/AIf8zZQeMFxiwckDj_tGt5eXDEMxwuDjOiduigm6yJ5c=s100 | 東森財經新聞台
+东森财经新闻台 | Youtube | https://yt3.ggpht.com/ytc/AIf8zZQeMFxiwckDj_tGt5eXDEMxwuDjOiduigm6yJ5c=s100 | 东森财经新闻台
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-寰宇新聞台 | Youtube | https://yt3.ggpht.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s100 | 寰宇新聞台
+中视新闻台 | Youtube | https://yt3.ggpht.com/yibEHBX4Sfi2BPrad679w0sKiDCSQjx67PaGMU3AhPoZAMILyAVlxcHseLqvSP2hBlVxsYG-=s100 | 中视新闻台
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+华视新闻台 | Youtube | https://yt3.ggpht.com/mYY5rTK5c8I9ZQ7g8Rq_Fi7naM4_ZNcODZISbqyw2cv-0R_4FKF2_1t2Vp6JeW8pVw5eFvm=s100 | 华视新闻台
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+寰宇新闻台 | Youtube | https://yt3.ggpht.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s100 | 寰宇新闻台
 https://www.youtube.com/watch?v=6IquAgfvYmc
 
-寰宇新聞台灣台 | Youtube | https://yt3.ggpht.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s100 | 寰宇新聞台灣台
+寰宇新闻台湾台 | Youtube | https://yt3.ggpht.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s100 | 寰宇新闻台湾台
 https://www.youtube.com/watch?v=w87VGpgd90U
 
-八大剧乐部 | Youtube | https://yt3.ggpht.com/xrv20AT1tjJPZDirBlMVcF6uZfl9Ct1OgjoPDK2xqrZ3ruaGxd7NIiatZJZ10SFSmBJnZcNQ=s100 | yt_gXl9nCj4ue4
+新唐人亚太电视台 | Youtube | https://yt3.ggpht.com/ytc/AIf8zZS7fiIi3ba-I-oiTDMJaKWFtezMIeR2AciESTinnA=s100 | 新唐人亚太电视台
+https://www.youtube.com/watch?v=WIhgU_mc05A
+
+GTV八大剧乐部 | Youtube | https://yt3.ggpht.com/xrv20AT1tjJPZDirBlMVcF6uZfl9Ct1OgjoPDK2xqrZ3ruaGxd7NIiatZJZ10SFSmBJnZcNQ=s100 | yt_gXl9nCj4ue4
 https://www.youtube.com/watch?v=gXl9nCj4ue4
 
 新兵日记 | Youtube | https://yt3.ggpht.com/ytc/AIf8zZTxyEbaYvp5YDg5K85vr1dUEJTR46zG2W6U-S19=s100 | yt_hbm8Uov-YOE
