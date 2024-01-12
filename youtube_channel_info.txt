@@ -2,80 +2,53 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-연합뉴스TV | 韩国 |  |
-https://www.youtube.com/watch?v=0GN8t2u3flc/live
+凤凰卫视资讯台 | Youtube | https://yt3.ggpht.com/x3_2K7uOfrAKgoPE1o0vsUWTYoWDk3NjiIRFdm8iPQ16prR3kvGXbaBAWph52rH-TZQkJ5g4P9Y=s100 | 凤凰卫视资讯台
+https://www.youtube.com/watch?v=Zm4i_rvAcxc
 
-CCTV4 | China |  |
-https://www.youtube.com/watch?v=QTz6avPD4Ns
-4K | 4k |  |
-https://www.youtube.com/watch?v=rw7bxTqkYYs
+三立新聞+ | Youtube | https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6=s100 | 三立新聞+
+https://www.youtube.com/watch?v=oZdzzvxTfUY
 
-4K | 4k |  |
-https://www.youtube.com/watch?v=tAuXNZ5TSlA
-
-空间站1 | 世界 |  |
-https://www.youtube.com/watch?v=mBzrxNHF2u8
-
-空间站2 | 世界 |  |
-https://www.youtube.com/watch?v=ddZu_1Z3BAc
-
-中天新闻 |台湾||
-https://www.youtube.com/watch?v=_QbRXRnHMVY
-
-TVBS |台湾||
-https://www.youtube.com/watch?v=2mCSYvcfhtc
-
-台視新聞台 |台湾||
-https://www.youtube.com/watch?v=xL0ch83RAK8
-
-三立海外直播 |台湾||
+LIVE三立 | Youtube | https://yt3.ggpht.com/RfKKG7y_FBtCNSO8pxW28swsDWPYT_2OsAe4g6JFOidlzLznXd73tzk3vsHyUk3Fywp_itC6=s100 | LIVE 三立
 https://www.youtube.com/watch?v=FoBfXvlOR6I
 
-中視新聞 |台湾||
-https://www.youtube.com/watch?v=TCnaIE_SAtM
-
-寰宇新聞台 |台湾||
-https://www.youtube.com/watch?v=B7Zp3d6xXWw
-
-国家地理 |世界||
-https://www.youtube.com/watch?v=OQz-efDv01k
-
-YTN | 韩国 |  |
-https://www.youtube.com/watch?v=vEO6wO0QsX8
-
-KBS | 韩国 |  |
-https://www.youtube.com/watch?v=1WhB1z0bWGs
-
-熊猫直播  |世界||
-https://www.youtube.com/watch?v=gNGolYPBy2E
-
-ABC  |英语||
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
-
-凤凰卫视HD  |香港||
-https://www.youtube.com/watch?v=xyyvJ_KgTlg
-
-热门音乐  |香港||
-https://www.youtube.com/watch?v=wrYF0HX7Kzc
-
-欧美音乐  |香港||
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-欧美音乐1  |香港||
-https://www.youtube.com/watch?v=oVu-aAMV9c8
-
-三立新闻 |台湾||
+三立iNEWS | Youtube | https://yt3.ggpht.com/ZdGT0pzlpBUdyvQN-2MtuDPe0_Bclv1JSv3LbIub8TAofAE_xL7SxyBbSCZYnJjpB9hV2ncl=s100 | 三立iNEWS
 https://www.youtube.com/watch?v=CKjSm5ZeehE
 
-東森新聞  |台湾||
-https://www.youtube.com/watch?v=R2iMq5LKXco
+中天新聞台 | Youtube | https://yt3.ggpht.com/7TX5a0vWm4atw3f_uPwN651m0VOmnBSfP0sLEZb4sEha-laWJC2XpeAIVbUqPTum0NRAwuAn=s100 | 中天新聞台
+https://www.youtube.com/watch?v=oIgbl7t0S_w
 
-東森財經新聞  |台湾||
+TVBS NEWS | Youtube | https://yt3.ggpht.com/jWe-dwGiiNd26ijxazm7ZTmbbObYF0e-HJntH2d_YtMM4M-vLKfoSb9Wj1NA6NOUk6KfsG2IsA=s100 | TVBS NEWS
+https://www.youtube.com/watch?v=m_dhMSvUCIc
+
+TVBS新聞台 | Youtube | https://yt3.ggpht.com/jWe-dwGiiNd26ijxazm7ZTmbbObYF0e-HJntH2d_YtMM4M-vLKfoSb9Wj1NA6NOUk6KfsG2IsA=s100 | TVBS新聞台
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+台視新聞台 | Youtube | https://yt3.ggpht.com/EwLBjB1PzvsfcoXEFdkbXGVZov4lJ9_51CjgHaNDd79Z6jmseEqWE9Veyuq11GOTASDsZwmaK1w=s100 | 台視新聞台
+https://www.youtube.com/watch?v=xL0ch83RAK8
+
+民視新聞台 | Youtube | https://yt3.ggpht.com/aPMRiUY_jRjB3arBBm6UAwbMChDTYvxYDdWKQIufybG158JfO1mhv3QLVvWGAOfk54OWY-SkTg=s100 | 民視新聞台
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+中視新聞台 | Youtube | https://yt3.ggpht.com/yibEHBX4Sfi2BPrad679w0sKiDCSQjx67PaGMU3AhPoZAMILyAVlxcHseLqvSP2hBlVxsYG-=s100 | 中視新聞台
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+华视新闻台 | Youtube | https://yt3.ggpht.com/mYY5rTK5c8I9ZQ7g8Rq_Fi7naM4_ZNcODZISbqyw2cv-0R_4FKF2_1t2Vp6JeW8pVw5eFvak=s100 | 华视新闻台
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+東森新聞台 | Youtube | https://yt3.ggpht.com/o3xThAlQzF4mXtPWuxwnKZz08Gcv40ZmS_kcanctpOlMaNc9tnqAKT_tsxHoJTuNbuPe5Fvm=s100 | 東森新聞台
+https://www.youtube.com/watch?v=2dfAzcDf8Zg
+
+東森財經新聞台 | Youtube | https://yt3.ggpht.com/ytc/AIf8zZQeMFxiwckDj_tGt5eXDEMxwuDjOiduigm6yJ5c=s100 | 東森財經新聞台
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-机场免费节点 |||
-https://www.youtube.com/watch?v=0LFElpy53aU
+寰宇新聞台 | Youtube | https://yt3.ggpht.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s100 | 寰宇新聞台
+https://www.youtube.com/watch?v=6IquAgfvYmc
 
-東森娛樂台live |
-https://www.youtube.com/watch?v=AH053CqyXWg
+寰宇新聞台灣台 | Youtube | https://yt3.ggpht.com/fxBQ8u3-6PQVnI81vnxzjF7u-3nipVm6Rv4-G5OQ2ugg6zWYcyfBuRqHnQrFyWEe1oDCrvgJtQ=s100 | 寰宇新聞台灣台
+https://www.youtube.com/watch?v=w87VGpgd90U
 
+八大剧乐部 | Youtube | https://yt3.ggpht.com/xrv20AT1tjJPZDirBlMVcF6uZfl9Ct1OgjoPDK2xqrZ3ruaGxd7NIiatZJZ10SFSmBJnZcNQ=s100 | yt_gXl9nCj4ue4
+https://www.youtube.com/watch?v=gXl9nCj4ue4
+
+新兵日记 | Youtube | https://yt3.ggpht.com/ytc/AIf8zZTxyEbaYvp5YDg5K85vr1dUEJTR46zG2W6U-S19=s100 | yt_hbm8Uov-YOE
+https://www.youtube.com/watch?v=hbm8Uov-YOE
